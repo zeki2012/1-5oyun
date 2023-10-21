@@ -5,8 +5,11 @@ switch (num) {
     case 3:
         netice = 'Uddunuz!!!'
         break;
-    default:
+        case 4:
         netice = 'Bir daha sinayin'
-        break;  8
+        break;
+    default:
+        netice = '1 - 5 e qeder secin daha cox olmaz!'
+        break;  
 }
 document.getElementById('qaqacool').innerHTML = netice
