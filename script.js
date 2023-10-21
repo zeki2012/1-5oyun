@@ -5,7 +5,7 @@ switch (num) {
     case 3:
         netice = 'Uddunuz!!!'
         break;
-        case 4:
+        case 2:
         netice = 'Bir daha sinayin'
         break;
     default:
