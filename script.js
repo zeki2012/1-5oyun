@@ -6,7 +6,7 @@ switch (num) {
         netice = 'Uddunuz!!!'
         break;
         case 2:
-        netice = 'Bir daha sinayin'
+        netice = `Bir daha sinayin.Dogru cavab: ${num}`
         break;
     default:
         netice = '1 - 5 e qeder secin daha cox olmaz!'
